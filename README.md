@@ -1,4 +1,19 @@
-# mptestproject
+# MyCinema
+
+### Features
+
+- Users can register / log in / change password
+- The app provides the users to follow movies, stars or genres.
+- The app suggests some movies to the users based on users follows.
+
+####Used technologies
+- Vue.Js for front-end part
+- Firebase for back-end part
+- Vuex for state management
+
+#####Used movies database
+- https://developers.themoviedb.org/
+
 
 ## Project setup
 ```
