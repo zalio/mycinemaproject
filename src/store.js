@@ -10,8 +10,8 @@ const store = new Vuex.Store({
   state: {
     token: "",
     userId: "",
-    fbApiKey: "AIzaSyBip3V3Q6_-h6zC7o3CaeklOGgOX6VYA60",
-    theMovieDBKey: "b729eac929fe71fc2dadee306339052a",
+    fbApiKey: "",
+    theMovieDBKey: "",
     movies: [],
     genres: [],
     stars: [],
